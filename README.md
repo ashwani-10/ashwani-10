@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwani-10" alt="ashwani-10" /></a> </p>
-
 - 📫 How to reach me **iamashwani10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
